@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1d665e6-0c18-4de1-89ac-b5b15e596c8c" name="Changes" comment="" />
+    <list default="true" id="c1d665e6-0c18-4de1-89ac-b5b15e596c8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/todoapplication/appdata/serializer/TodoEntrySerializer.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -33,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "/media/kmpk/C204F10C04F10467/Users/AWA/Programming/Encentral_Solutions_Internship/Assessments/Month3_Week2/TodoApplication/src/main/java/org/todoapplication/Main.java",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
