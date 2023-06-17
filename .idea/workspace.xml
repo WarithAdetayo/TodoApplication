@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1d665e6-0c18-4de1-89ac-b5b15e596c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/todoapplication/appdata/serializer/TodoEntrySerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
