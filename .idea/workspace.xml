@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1d665e6-0c18-4de1-89ac-b5b15e596c8c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2RHvoZJ9kcHB43scqcwsIWFmBeH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "onboarding.tips.debug.path": "/media/kmpk/C204F10C04F10467/Users/AWA/Programming/Encentral_Solutions_Internship/Assessments/Month3_Week2/TodoApplication/src/main/java/org/todoapplication/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.todoapplication.appdata.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.todoapplication.Main" />
+      <module name="TodoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.todoapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataHandlerTest.addNewUserDataAndSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TodoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.todoapplication.appdata.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.todoapplication.appdata.service" />
+      <option name="MAIN_CLASS_NAME" value="org.todoapplication.appdata.service.DataHandlerTest" />
+      <option name="METHOD_NAME" value="addNewUserDataAndSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataHandlerTest.loadAndGetUserData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TodoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.todoapplication.appdata.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.todoapplication.appdata.service" />
+      <option name="MAIN_CLASS_NAME" value="org.todoapplication.appdata.service.DataHandlerTest" />
+      <option name="METHOD_NAME" value="loadAndGetUserData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DataHandlerTest.loadAndGetUserData" />
+        <item itemvalue="JUnit.DataHandlerTest.addNewUserDataAndSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1d665e6-0c18-4de1-89ac-b5b15e596c8c" name="Changes" comment="" />
+      <created>1686920011140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686920011140</updated>
+    </task>
+    <servers />
+  </component>
+</project>

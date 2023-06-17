@@ -1,0 +1,44 @@
+{
+  "warithadetayo.awa@gmail.com": {
+    "email": "warithadetayo.awa@gmail.com",
+    "password": "7a2b178210dd12f6c7c3dd6180638920a8afea1e2b4fa77db76698536d26b189",
+    "todoList": {
+      "2c744030-9a1a-46eb-b1bd-5f839913f7fd": {
+        "id": "2c744030-9a1a-46eb-b1bd-5f839913f7fd",
+        "title": "I Have Exam",
+        "description": "Some Todo",
+        "reminderDate": "2023-05-04T07:00",
+        "completed": true,
+        "active": true,
+        "dateCreated": "2023-06-17T06:23:36.173440152",
+        "ownerId": "warithadetayo.awa@gmail.com"
+      },
+      "9b8be0d6-fe1e-439b-a8aa-9c97f67c3341": {
+        "id": "9b8be0d6-fe1e-439b-a8aa-9c97f67c3341",
+        "title": "Just Another Todo",
+        "description": "Attending to my church activities",
+        "reminderDate": "2023-07-17T00:00",
+        "completed": true,
+        "active": true,
+        "dateCreated": "2023-06-17T09:48:17.071157892",
+        "ownerId": "warithadetayo.awa@gmail.com"
+      }
+    }
+  },
+  "MichaelOluwayemi11@gmail.com": {
+    "email": "MichaelOluwayemi11@gmail.com",
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "todoList": {
+      "3cdd452f-ab5c-4726-8acd-9b8fa956623f": {
+        "id": "3cdd452f-ab5c-4726-8acd-9b8fa956623f",
+        "title": "Do the laundry",
+        "description": "Wash your clothes so you don\u0027t end up smelling",
+        "reminderDate": "2023-06-20T10:10:10",
+        "completed": true,
+        "active": true,
+        "dateCreated": "2023-06-17T10:05:00.793785648",
+        "ownerId": "MichaelOluwayemi11@gmail.com"
+      }
+    }
+  }
+}
